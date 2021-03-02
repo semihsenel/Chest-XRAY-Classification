@@ -9,15 +9,18 @@ tensorflow==2.4.1
 ```
 
 - This data from a kaggle competition [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/).
+
 <figure class="image">
-  <img src="images/normal.jpeg" alt="NORMAL" width="100">
+  <img src="images/normal.jpeg" alt="NORMAL" width="100" align="left">
   <figcaption>NORMAL</figcaption>
 </figure>
 
 <figure class="image">
-  <img src="images/pnemonia.jpeg" alt="PNEUMONIA" width="120">
+  <img src="images/pnemonia.jpeg" alt="PNEUMONIA" width="120" align="right">
   <figcaption>PNEUMONIA</figcaption>
 </figure>
+<br>
+<br>
 
 
 - I used a CNN architecture similar to VGG16 to classify images.
