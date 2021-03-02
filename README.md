@@ -15,7 +15,7 @@ tensorflow==2.4.1
 </figure>
 
 <figure class="image">
-  <img src="images/pnemonia.jpeg" alt="PNEUMONIA" width="150">
+  <img src="images/pnemonia.jpeg" alt="PNEUMONIA" width="120">
   <figcaption>PNEUMONIA</figcaption>
 </figure>
 
