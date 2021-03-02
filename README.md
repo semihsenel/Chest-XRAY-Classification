@@ -14,6 +14,11 @@ tensorflow==2.4.1
   <figcaption>NORMAL</figcaption>
 </figure>
 
+<figure class="image">
+  <img src="images/pnemonia.jpeg" alt="PNEUMONIA" width="150">
+  <figcaption>PNEUMONIA</figcaption>
+</figure>
+
 
 - I used a CNN architecture similar to VGG16 to classify images.
 - <img src="images/vgg16.png" alt="VGG Architecture" width="500"/>
