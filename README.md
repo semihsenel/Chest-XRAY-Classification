@@ -9,6 +9,14 @@ tensorflow==2.4.1
 ```
 
 - This data from a kaggle competition [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia/).
-- I used a CNN archtitecture similar to VGG16 to classify images.
+<div>
+  <img src="images/normal.png" alt="VGG Architecture" width="200"/>
+  <img src="images/pnemonia.png" alt="VGG Architecture" width="200"/>
+</div>
+- I used a CNN architecture similar to VGG16 to classify images.
+- <img src="images/vgg16.png" alt="VGG Architecture" width="500"/>
+
+- Train Accracy : 0.92
+- Validation Accuracy : 0.87
 
 
